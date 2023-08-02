@@ -1,0 +1,9 @@
+{
+	"name": "WafaStudiesSR",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "43db0d0c-e5b3-49b0-8a6d-7e39942bddd0",
+		"tenantId": "7677bbf0-1083-404a-97a8-1d7247f21a83"
+	}
+}

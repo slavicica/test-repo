@@ -5,6 +5,15 @@
 		"factoryName": {
 			"value": "WafaStudiesSR"
 		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureBlobStorage2_properties_typeProperties_serviceEndpoint": {
+			"value": "https://slavicadlk.blob.core.windows.net/"
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://cs210030000adab87e2.dfs.core.windows.net/"
+		},
 		"containerUri": {
 			"value": ""
 		},
